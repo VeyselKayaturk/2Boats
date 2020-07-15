@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2Boats/Scenes/GamePlay.unity
+  isLoaded: 1
+  isActive: 0
